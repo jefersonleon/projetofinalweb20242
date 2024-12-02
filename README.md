@@ -36,8 +36,6 @@ Cada projeto deverá incluir, obrigatoriamente, pelo menos um dos requisitos aba
 - **Recuperação de Senha:**
   - Permita ao usuário redefinir sua senha.
   - Sugestão: simular envio de link para redefinição.
-- **Armazenamento Seguro de Senhas:**
-  - Utilize `password_hash` para salvar senhas de forma segura no banco de dados.
 - **Paginação e Filtro em Listagens:**
   - Inclua paginação e busca avançada nas tabelas do sistema.
 - **Upload de Arquivos:**
